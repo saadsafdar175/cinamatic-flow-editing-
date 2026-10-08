@@ -1,0 +1,6 @@
+{
+  "name": "CineFlow Studio",
+  "description": "Professional offline-first desktop video editing suite with multi-track timeline, DSLR cinematic color grading, AI face retouch, and smooth slow motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
